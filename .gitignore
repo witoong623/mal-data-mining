@@ -1,0 +1,29 @@
+# Cache
+__pycache__
+/nyaa/static/.webassets-cache
+
+# Virtual Environments
+/venv
+
+# Coverage
+.coverage
+/htmlcov
+
+# Editors
+/.vscode
+
+# Databases
+*.sql
+test.db
+
+# Webserver
+uwsgi.sock
+
+# Application
+install/*
+config.py
+/test_torrent_batch
+torrents
+
+# Other
+*.swp
